@@ -9,4 +9,4 @@
 
 **git push** envia as modificações locais para o repositorio, **git pull** traz as mudanças do repositorio remoto para o local<br>
 
-**git branche** lista as branches no diretorio, **git branch <nome-da-branch>** cria uma nova
+**git branch** lista as branches no diretorio, **git branch <nome-da-branch>** cria uma nova
