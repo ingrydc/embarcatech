@@ -3,7 +3,6 @@
 
 ### declaração de variável
 
-```c 
 tipo_de_dado nome_da_variavel;
 
 ***Exemplos*** <br>
@@ -12,8 +11,7 @@ float altura<br>
 char inicial<br>
 
 ### declaração de constante
-
-```c 
+ 
 #define NOME_CONSTANTE valor
 
 ***exemplo*** <br>
@@ -22,9 +20,9 @@ def float PI = 3.14159;
 ### if
 #### comando condicional
 
-```c 
+```c  
 (condicao) {
     // codigo a ser executado se for verdadeiro
 } else {
     // codigo a ser executado se for falso
-} 
+} ```
