@@ -1,1 +1,3 @@
 # embarcatech
+
+exercícios e anotações 
