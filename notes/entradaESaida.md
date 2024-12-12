@@ -2,14 +2,14 @@
 
 #### Formatos
 
-**%d** inteiro decimal
-**%f** ponto flutuante
-**%c** caractere
-**%s** string
+**%d** inteiro decimal<br>
+**%f** ponto flutuante<br>
+**%c** caractere<br>
+**%s** string<br>
 **%x** inteiro hexadecimal
 
 #### Formatos
-**\n** nova linha
-**\t** tabulação
-**\\** barra invertida
+**\n** nova linha<br>
+**\t** tabulação<br>
+**\\** barra invertida<br>
 **\*** aspas
