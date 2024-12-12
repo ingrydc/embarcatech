@@ -1,7 +1,6 @@
 # Operadores
 
 ## Tipo
-
 ### Aritmético
 
 "+" 
