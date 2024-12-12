@@ -1,11 +1,15 @@
 ## Entrada e saída
 
-| Coluna 1 | Coluna 2 | Coluna 3 |
-|----------|----------|----------|
-| Valor 1  | Valor 2  | Valor 3  |
-| Valor A  | Valor B  | Valor C  |
+#### Formatos
 
-### Formatos
+**%d** inteiro decimal
+**%f** ponto flutuante
+**%c** caractere
+**%s** string
+**%x** inteiro hexadecimal
 
-| %d | inteiro decimal |
-| %f | inteiro flutuante |
+#### Formatos
+**\n** nova linha
+**\t** tabulação
+**\\** barra invertida
+**\*** aspas
