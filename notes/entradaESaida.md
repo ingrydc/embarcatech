@@ -7,4 +7,4 @@
 
 | Formatos |
 |----------|
-| %d | inteiro decimal !
+| %d | inteiro decimal |
