@@ -3,32 +3,32 @@
 ### Tipos 
 
 #### Aritméticos
-"+" adição
-"-" subtração 
-"*" multiplicação
-"/" divisão
-"%" módulo
+"+" adição \n
+"-" subtração \n
+"*" multiplicação \n
+"/" divisão \n
+"%"  \n 
 
 #### Atribuição
 "=" atribuiçao simples
 
 #### Lógicos
-"&&" and
-"||" or
-"!" negação
+"&&" and \n
+"||"  \n
+"!" negação \n
 
 #### Relacionais
-"==" igual relacional
-"!=" diferente
-"<" menor que
-">" maior que
-"<=" menor ou igual a
-">=" maior ou igual a 
+"==" igual relacional \n
+"!=" diferente \n
+"<" menor  \n
+">" maior que \n
+"<=" menor ou igual a \n
+">=" maior ou igual a
 
 #### Incremento e decremento
-"++" incremento
+"++" incremento \n
 "--" decremento
 
 #### Apontadores
-"&" retorna o endereço de
+"&" retorna o endereço de \n
 "*" retorna o contéudo de
