@@ -21,8 +21,8 @@ def float PI = 3.14159;
 #### comando condicional
 
 ```c  
-(condicao) {
+if (condicao) {
     // codigo a ser executado se for verdadeiro
 } else {
     // codigo a ser executado se for falso
-} ```
+}
