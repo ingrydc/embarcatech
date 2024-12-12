@@ -8,4 +8,4 @@
 ### Formatos
 
 | %d | inteiro decimal |
-| %f | inteiro flutuante
+| %f | inteiro flutuante |
