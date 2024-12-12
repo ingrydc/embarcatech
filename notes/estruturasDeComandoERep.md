@@ -10,6 +10,7 @@ tipo_de_dado nome_da_variavel;
 int idade; <br>
 float altura<br>
 char inicial<br>
+```
 
 ### declaração de constante
  
@@ -27,3 +28,4 @@ if (condicao) {
 } else {
     // codigo a ser executado se for falso
 }
+```
