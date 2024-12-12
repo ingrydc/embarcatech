@@ -5,6 +5,7 @@
 | Valor 1  | Valor 2  | Valor 3  |
 | Valor A  | Valor B  | Valor C  |
 
-| Formatos             |
-|----------------------|
+### Formatos
+
 | %d | inteiro decimal |
+| %f | inteiro flutuante
