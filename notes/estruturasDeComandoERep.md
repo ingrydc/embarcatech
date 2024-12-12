@@ -6,6 +6,7 @@
 tipo_de_dado nome_da_variavel;
 
 ***Exemplos*** <br>
+```c
 int idade; <br>
 float altura<br>
 char inicial<br>
@@ -15,7 +16,7 @@ char inicial<br>
 #define NOME_CONSTANTE valor
 
 ***exemplo*** <br>
-def float PI = 3.14159;
+`def float PI = 3.14159;`
 
 ### if
 #### comando condicional
